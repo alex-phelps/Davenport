@@ -1,0 +1,9 @@
+C:\Users\Alex\Documents\Projects\CSCI 280 - Chapter 4\ticTacToe\bin\Debug\ticTacToe.exe.config
+C:\Users\Alex\Documents\Projects\CSCI 280 - Chapter 4\ticTacToe\bin\Debug\ticTacToe.exe
+C:\Users\Alex\Documents\Projects\CSCI 280 - Chapter 4\ticTacToe\bin\Debug\ticTacToe.pdb
+C:\Users\Alex\Documents\Projects\CSCI 280 - Chapter 4\ticTacToe\obj\Debug\ticTacToe.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\Projects\CSCI 280 - Chapter 4\ticTacToe\obj\Debug\ticTacToe.mainForm.resources
+C:\Users\Alex\Documents\Projects\CSCI 280 - Chapter 4\ticTacToe\obj\Debug\ticTacToe.Properties.Resources.resources
+C:\Users\Alex\Documents\Projects\CSCI 280 - Chapter 4\ticTacToe\obj\Debug\ticTacToe.csproj.GenerateResource.cache
+C:\Users\Alex\Documents\Projects\CSCI 280 - Chapter 4\ticTacToe\obj\Debug\ticTacToe.exe
+C:\Users\Alex\Documents\Projects\CSCI 280 - Chapter 4\ticTacToe\obj\Debug\ticTacToe.pdb

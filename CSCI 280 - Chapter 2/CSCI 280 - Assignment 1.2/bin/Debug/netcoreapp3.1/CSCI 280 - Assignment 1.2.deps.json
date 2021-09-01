@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CSCI 280 - Assignment 1.2/1.0.0": {
+        "runtime": {
+          "CSCI 280 - Assignment 1.2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSCI 280 - Assignment 1.2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

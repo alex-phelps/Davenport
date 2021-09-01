@@ -1,0 +1,56 @@
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Programming\Davenport Classes\AI Course\AStar Search\AStar Search\bin\Debug\AStar Search.exe
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Programming\Davenport Classes\AI Course\AStar Search\AStar Search\bin\Debug\AStar Search.pdb
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Programming\Davenport Classes\AI Course\AStar Search\AStar Search\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Programming\Davenport Classes\AI Course\AStar Search\AStar Search\obj\Debug\AStar_Search.mainForm.resources
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Programming\Davenport Classes\AI Course\AStar Search\AStar Search\obj\Debug\AStar_Search.Properties.Resources.resources
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Programming\Davenport Classes\AI Course\AStar Search\AStar Search\obj\Debug\AStar Search.csproj.GenerateResource.Cache
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Programming\Davenport Classes\AI Course\AStar Search\AStar Search\obj\Debug\AStar Search.exe
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Programming\Davenport Classes\AI Course\AStar Search\AStar Search\obj\Debug\AStar Search.pdb
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Programming\Davenport Classes\AI Course\AStar Search\AStar Search\obj\Debug\AStar_Search.graphDisplay.resources
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Davenport\Classes Fall 2010\CISP 280 Artificial Intelligence\Astar Search Modified\AStar Search\bin\Debug\AStar Search.exe
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Davenport\Classes Fall 2010\CISP 280 Artificial Intelligence\Astar Search Modified\AStar Search\bin\Debug\AStar Search.pdb
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Davenport\Classes Fall 2010\CISP 280 Artificial Intelligence\Astar Search Modified\AStar Search\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Davenport\Classes Fall 2010\CISP 280 Artificial Intelligence\Astar Search Modified\AStar Search\obj\Debug\AStar_Search.mainForm.resources
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Davenport\Classes Fall 2010\CISP 280 Artificial Intelligence\Astar Search Modified\AStar Search\obj\Debug\AStar_Search.graphDisplay.resources
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Davenport\Classes Fall 2010\CISP 280 Artificial Intelligence\Astar Search Modified\AStar Search\obj\Debug\AStar_Search.Properties.Resources.resources
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Davenport\Classes Fall 2010\CISP 280 Artificial Intelligence\Astar Search Modified\AStar Search\obj\Debug\AStar Search.csproj.GenerateResource.Cache
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Davenport\Classes Fall 2010\CISP 280 Artificial Intelligence\Astar Search Modified\AStar Search\obj\Debug\AStar Search.exe
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Davenport\Classes Fall 2010\CISP 280 Artificial Intelligence\Astar Search Modified\AStar Search\obj\Debug\AStar Search.pdb
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Davenport\Classes Fall 2010\CISP 280 Artificial Intelligence\Astar Search Modifiedv2\AStar Search\obj\Debug\AStar Search.exe
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Davenport\Classes Fall 2010\CISP 280 Artificial Intelligence\Astar Search Modifiedv2\AStar Search\obj\Debug\AStar Search.pdb
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Davenport\Classes Fall 2010\CISP 280 Artificial Intelligence\Astar Search Modifiedv2\AStar Search\bin\Debug\AStar Search.exe
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Davenport\Classes Fall 2010\CISP 280 Artificial Intelligence\Astar Search Modifiedv2\AStar Search\bin\Debug\AStar Search.pdb
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Davenport\Classes Fall 2010\CISP 280 Artificial Intelligence\Astar Search Modifiedv2\AStar Search\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Davenport\Classes Fall 2010\CISP 280 Artificial Intelligence\Astar Search Modifiedv2\AStar Search\obj\Debug\AStar_Search.mainForm.resources
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Davenport\Classes Fall 2010\CISP 280 Artificial Intelligence\Astar Search Modifiedv2\AStar Search\obj\Debug\AStar_Search.graphDisplay.resources
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Davenport\Classes Fall 2010\CISP 280 Artificial Intelligence\Astar Search Modifiedv2\AStar Search\obj\Debug\AStar_Search.Properties.Resources.resources
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Davenport\Classes Fall 2010\CISP 280 Artificial Intelligence\Astar Search Modifiedv2\AStar Search\obj\Debug\AStar Search.csproj.GenerateResource.Cache
+D:\My Documents\Davenport\Old Classes\Classes Fall 2013\CISP 280 Artificial Intelligence\Old Class\Astar Search Modifiedv2\AStar Search\bin\Debug\AStar Search.exe
+D:\My Documents\Davenport\Old Classes\Classes Fall 2013\CISP 280 Artificial Intelligence\Old Class\Astar Search Modifiedv2\AStar Search\bin\Debug\AStar Search.pdb
+D:\My Documents\Davenport\Old Classes\Classes Fall 2013\CISP 280 Artificial Intelligence\Old Class\Astar Search Modifiedv2\AStar Search\obj\Debug\AStar Search.csprojResolveAssemblyReference.cache
+D:\My Documents\Davenport\Old Classes\Classes Fall 2013\CISP 280 Artificial Intelligence\Old Class\Astar Search Modifiedv2\AStar Search\obj\Debug\AStar_Search.mainForm.resources
+D:\My Documents\Davenport\Old Classes\Classes Fall 2013\CISP 280 Artificial Intelligence\Old Class\Astar Search Modifiedv2\AStar Search\obj\Debug\AStar_Search.graphDisplay.resources
+D:\My Documents\Davenport\Old Classes\Classes Fall 2013\CISP 280 Artificial Intelligence\Old Class\Astar Search Modifiedv2\AStar Search\obj\Debug\AStar_Search.Properties.Resources.resources
+D:\My Documents\Davenport\Old Classes\Classes Fall 2013\CISP 280 Artificial Intelligence\Old Class\Astar Search Modifiedv2\AStar Search\obj\Debug\AStar Search.csproj.GenerateResource.Cache
+D:\My Documents\Davenport\Old Classes\Classes Fall 2013\CISP 280 Artificial Intelligence\Old Class\Astar Search Modifiedv2\AStar Search\obj\Debug\AStar Search.csproj.CoreCompileInputs.cache
+D:\My Documents\Davenport\Old Classes\Classes Fall 2013\CISP 280 Artificial Intelligence\Old Class\Astar Search Modifiedv2\AStar Search\obj\Debug\AStar Search.exe
+D:\My Documents\Davenport\Old Classes\Classes Fall 2013\CISP 280 Artificial Intelligence\Old Class\Astar Search Modifiedv2\AStar Search\obj\Debug\AStar Search.pdb
+D:\My Documents\Dropbox\Davenport\Classes - Base\CSCI 280 Artificial Intelligence\visualStudioSolutions\Astar Search Modifiedv2\AStar Search\bin\Debug\AStar Search.exe
+D:\My Documents\Dropbox\Davenport\Classes - Base\CSCI 280 Artificial Intelligence\visualStudioSolutions\Astar Search Modifiedv2\AStar Search\bin\Debug\AStar Search.pdb
+D:\My Documents\Dropbox\Davenport\Classes - Base\CSCI 280 Artificial Intelligence\visualStudioSolutions\Astar Search Modifiedv2\AStar Search\obj\Debug\AStar Search.csprojResolveAssemblyReference.cache
+D:\My Documents\Dropbox\Davenport\Classes - Base\CSCI 280 Artificial Intelligence\visualStudioSolutions\Astar Search Modifiedv2\AStar Search\obj\Debug\AStar_Search.mainForm.resources
+D:\My Documents\Dropbox\Davenport\Classes - Base\CSCI 280 Artificial Intelligence\visualStudioSolutions\Astar Search Modifiedv2\AStar Search\obj\Debug\AStar_Search.graphDisplay.resources
+D:\My Documents\Dropbox\Davenport\Classes - Base\CSCI 280 Artificial Intelligence\visualStudioSolutions\Astar Search Modifiedv2\AStar Search\obj\Debug\AStar_Search.Properties.Resources.resources
+D:\My Documents\Dropbox\Davenport\Classes - Base\CSCI 280 Artificial Intelligence\visualStudioSolutions\Astar Search Modifiedv2\AStar Search\obj\Debug\AStar Search.csproj.GenerateResource.Cache
+D:\My Documents\Dropbox\Davenport\Classes - Base\CSCI 280 Artificial Intelligence\visualStudioSolutions\Astar Search Modifiedv2\AStar Search\obj\Debug\AStar Search.csproj.CoreCompileInputs.cache
+D:\My Documents\Dropbox\Davenport\Classes - Base\CSCI 280 Artificial Intelligence\visualStudioSolutions\Astar Search Modifiedv2\AStar Search\obj\Debug\AStar Search.exe
+D:\My Documents\Dropbox\Davenport\Classes - Base\CSCI 280 Artificial Intelligence\visualStudioSolutions\Astar Search Modifiedv2\AStar Search\obj\Debug\AStar Search.pdb
+C:\Users\Alex\Documents\Projects\Astar Search Unmodified\AStar Search\bin\Debug\AStar Search.exe
+C:\Users\Alex\Documents\Projects\Astar Search Unmodified\AStar Search\bin\Debug\AStar Search.pdb
+C:\Users\Alex\Documents\Projects\Astar Search Unmodified\AStar Search\obj\Debug\AStar Search.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\Projects\Astar Search Unmodified\AStar Search\obj\Debug\AStar_Search.mainForm.resources
+C:\Users\Alex\Documents\Projects\Astar Search Unmodified\AStar Search\obj\Debug\AStar_Search.graphDisplay.resources
+C:\Users\Alex\Documents\Projects\Astar Search Unmodified\AStar Search\obj\Debug\AStar_Search.Properties.Resources.resources
+C:\Users\Alex\Documents\Projects\Astar Search Unmodified\AStar Search\obj\Debug\AStar Search.csproj.GenerateResource.cache
+C:\Users\Alex\Documents\Projects\Astar Search Unmodified\AStar Search\obj\Debug\AStar Search.exe
+C:\Users\Alex\Documents\Projects\Astar Search Unmodified\AStar Search\obj\Debug\AStar Search.pdb

@@ -1,0 +1,11 @@
+C:\Users\Alex\Documents\Projects\CSCI 280 -  Assignment 1.1\CSCI 280 -  Assignment 1.1\bin\Debug\netcoreapp3.1\CSCI 280 -  Assignment 1.1.exe
+C:\Users\Alex\Documents\Projects\CSCI 280 -  Assignment 1.1\CSCI 280 -  Assignment 1.1\bin\Debug\netcoreapp3.1\CSCI 280 -  Assignment 1.1.deps.json
+C:\Users\Alex\Documents\Projects\CSCI 280 -  Assignment 1.1\CSCI 280 -  Assignment 1.1\bin\Debug\netcoreapp3.1\CSCI 280 -  Assignment 1.1.runtimeconfig.json
+C:\Users\Alex\Documents\Projects\CSCI 280 -  Assignment 1.1\CSCI 280 -  Assignment 1.1\bin\Debug\netcoreapp3.1\CSCI 280 -  Assignment 1.1.runtimeconfig.dev.json
+C:\Users\Alex\Documents\Projects\CSCI 280 -  Assignment 1.1\CSCI 280 -  Assignment 1.1\bin\Debug\netcoreapp3.1\CSCI 280 -  Assignment 1.1.dll
+C:\Users\Alex\Documents\Projects\CSCI 280 -  Assignment 1.1\CSCI 280 -  Assignment 1.1\bin\Debug\netcoreapp3.1\CSCI 280 -  Assignment 1.1.pdb
+C:\Users\Alex\Documents\Projects\CSCI 280 -  Assignment 1.1\CSCI 280 -  Assignment 1.1\obj\Debug\netcoreapp3.1\CSCI 280 -  Assignment 1.1.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\Projects\CSCI 280 -  Assignment 1.1\CSCI 280 -  Assignment 1.1\obj\Debug\netcoreapp3.1\CSCI 280 -  Assignment 1.1.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\Projects\CSCI 280 -  Assignment 1.1\CSCI 280 -  Assignment 1.1\obj\Debug\netcoreapp3.1\CSCI 280 -  Assignment 1.1.AssemblyInfo.cs
+C:\Users\Alex\Documents\Projects\CSCI 280 -  Assignment 1.1\CSCI 280 -  Assignment 1.1\obj\Debug\netcoreapp3.1\CSCI 280 -  Assignment 1.1.dll
+C:\Users\Alex\Documents\Projects\CSCI 280 -  Assignment 1.1\CSCI 280 -  Assignment 1.1\obj\Debug\netcoreapp3.1\CSCI 280 -  Assignment 1.1.pdb

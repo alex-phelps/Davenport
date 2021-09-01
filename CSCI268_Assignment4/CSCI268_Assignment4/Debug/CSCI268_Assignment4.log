@@ -1,0 +1,3 @@
+﻿  Assembling program.asm...
+program.asm(6): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  CSCI268_Assignment4.vcxproj -> C:\Users\Alex\Documents\Projects\CSCI268_Assignment4\Debug\CSCI268_Assignment4.exe
